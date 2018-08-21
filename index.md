@@ -2,5 +2,6 @@
 
 ### Task
 
-<i class="fa fa-spin"> what am i? </i>
+what am i?
+
 (空格用`_`代替)
